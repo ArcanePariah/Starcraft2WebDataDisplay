@@ -72,6 +72,7 @@
     <ClCompile Include="MySAX2Handler.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AbilDataParserHandler.h" />
     <ClInclude Include="MySAX2Handler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
