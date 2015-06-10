@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlacedObjects Version="27">
+    <ObjectUnit Id="61" Position="43.16,38.59,0" Rotation="4.2214" Scale="1,1,1" UnitType="Marine" Player="1"/>
+    <ObjectDoodad Id="1" Variation="4" Position="27.5,34.5,8" Rotation="2.8806" Scale="1.194,1.194,1.194" Type="AgriaTree"/>
+    <ObjectDoodad Id="2" Variation="3" Position="31.5,29.5,8" Rotation="2.6223" Scale="0.98,0.98,0.98" Type="AgriaTree"/>
+    <ObjectDoodad Id="3" Position="34.5,35.5,8" Rotation="0.8303" Scale="0.8134,0.8134,0.8134" Type="AiurTree"/>
+    <ObjectDoodad Id="4" Variation="2" Position="28.5,29.5,8" Rotation="5.455" Scale="0.916,0.916,0.916" Type="AiurTree"/>
+    <ObjectDoodad Id="5" Variation="4" Position="30.5,26.5,8" Rotation="3.2976" Scale="1.1882,1.1882,1.1882" Type="AiurTree"/>
+    <ObjectDoodad Id="6" Variation="1" Position="37.5,27.5,8" Rotation="5.7138" Scale="0.8757,0.8757,0.8757" Type="AiurTree"/>
+    <ObjectDoodad Id="7" Variation="7" Position="35.5,31.5,8" Rotation="0.5263" Scale="1.1022,1.1022,1.1022" Type="AiurTree"/>
+    <ObjectDoodad Id="8" Variation="5" Position="33.5,26.5,8" Rotation="3.4702" Scale="0.8618,0.8618,0.8618" Type="AiurTree"/>
+    <ObjectDoodad Id="9" Variation="7" Position="37.5,30.5,8" Rotation="2.1225" Scale="1.1655,1.1655,1.1655" Type="AiurTree"/>
+    <ObjectDoodad Id="10" Variation="7" Position="40.5,33.5,8" Rotation="3.0876" Scale="1.1916,1.1916,1.1916" Type="AiurTree"/>
+    <ObjectDoodad Id="11" Variation="4" Position="26.5,20.5,8" Rotation="4.5017" Scale="1.1242,1.1242,1.1242" Type="AiurTree"/>
+    <ObjectDoodad Id="12" Variation="7" Position="27.5,20.5,8" Rotation="2.6911" Scale="0.8881,0.8881,0.8881" Type="AiurTree"/>
+    <ObjectDoodad Id="13" Variation="7" Position="35.5,21.5,8" Rotation="0.394" Scale="0.8515,0.8515,0.8515" Type="AiurTree"/>
+    <ObjectDoodad Id="14" Variation="7" Position="32.5,23.5,8" Rotation="5.3974" Scale="1.05,1.05,1.05" Type="AiurTree"/>
+    <ObjectDoodad Id="15" Variation="6" Position="31.5,24.5,8" Rotation="1.1137" Scale="0.997,0.997,0.997" Type="AiurTree"/>
+    <ObjectDoodad Id="16" Variation="6" Position="30.5,22.5,8" Rotation="2.934" Scale="0.8916,0.8916,0.8916" Type="AiurTree"/>
+    <ObjectDoodad Id="17" Variation="5" Position="31.5,22.5,8" Rotation="6.256" Scale="1.1274,1.1274,1.1274" Type="AiurTree"/>
+    <ObjectDoodad Id="18" Variation="5" Position="31.5,21.5,8" Rotation="3.9704" Scale="0.8676,0.8676,0.8676" Type="AiurTree"/>
+    <ObjectDoodad Id="19" Variation="5" Position="30.5,21.5,8" Rotation="1.9116" Scale="0.8454,0.8454,0.8454" Type="AiurTree"/>
+    <ObjectDoodad Id="20" Variation="3" Position="26.5,25.5,8" Rotation="3.3796" Scale="1.026,1.026,1.026" Type="AiurTree"/>
+    <ObjectDoodad Id="21" Variation="5" Position="25.5,26.5,8" Rotation="0.8112" Scale="0.919,0.919,0.919" Type="AiurTree"/>
+    <ObjectDoodad Id="22" Variation="3" Position="24.5,27.5,8" Rotation="0.624" Scale="0.9077,0.9077,0.9077" Type="AiurTree"/>
+    <ObjectDoodad Id="23" Position="24.5,28.5,8" Rotation="1.023" Scale="0.9157,0.9157,0.9157" Type="AiurTree"/>
+    <ObjectDoodad Id="24" Variation="3" Position="24.5,31.5,8" Rotation="4.6572" Scale="0.873,0.873,0.873" Type="AiurTree"/>
+    <ObjectDoodad Id="25" Position="24.5,32.5,8" Rotation="4.1162" Scale="0.9396,0.9396,0.9396" Type="AiurTree"/>
+    <ObjectDoodad Id="26" Variation="4" Position="26.5,31.5,8" Rotation="6.2751" Scale="1.1054,1.1054,1.1054" Type="AiurTree"/>
+    <ObjectDoodad Id="27" Variation="4" Position="27.5,30.5,8" Rotation="3.432" Scale="1.1977,1.1977,1.1977" Type="AiurTree"/>
+    <ObjectDoodad Id="28" Variation="5" Position="27.5,24.5,8" Rotation="5.5566" Scale="0.935,0.935,0.935" Type="AiurTree"/>
+    <ObjectDoodad Id="29" Variation="7" Position="28.5,22.5,8" Rotation="4.6335" Scale="0.9702,0.9702,0.9702" Type="AiurTree"/>
+    <ObjectDoodad Id="30" Variation="4" Position="29.5,21.5,8" Rotation="4.5954" Scale="1.1865,1.1865,1.1865" Type="AiurTree"/>
+    <ObjectDoodad Id="31" Variation="3" Position="40.5,26.5,8" Rotation="3.3942" Scale="0.9245,0.9245,0.9245" Type="AiurTree"/>
+    <ObjectDoodad Id="32" Variation="3" Position="40.5,22.5,8" Rotation="2.182" Scale="0.8974,0.8974,0.8974" Type="AiurTree"/>
+    <ObjectDoodad Id="33" Variation="5" Position="39.5,21.5,8" Rotation="1.4304" Scale="1.1096,1.1096,1.1096" Type="AiurTree"/>
+    <ObjectDoodad Id="34" Variation="6" Position="39.5,20.5,8" Rotation="5.469" Scale="0.8742,0.8742,0.8742" Type="AiurTree"/>
+    <ObjectDoodad Id="35" Variation="2" Position="38.5,19.5,8" Rotation="1.085" Scale="1.116,1.116,1.116" Type="AiurTree"/>
+    <ObjectDoodad Id="36" Variation="7" Position="34.5,20.5,8" Rotation="5.1625" Scale="1.0585,1.0585,1.0585" Type="AiurTree"/>
+    <ObjectDoodad Id="37" Variation="3" Position="33.5,18.5,8" Rotation="4.0332" Scale="1.131,1.131,1.131" Type="AiurTree"/>
+    <ObjectDoodad Id="38" Variation="1" Position="34.5,21.5,8" Rotation="3.5173" Scale="0.8867,0.8867,0.8867" Type="AiurTree"/>
+    <ObjectDoodad Id="39" Variation="6" Position="34.5,28.5,8" Rotation="0.869" Scale="0.8371,0.8371,0.8371" Type="AiurTree"/>
+    <ObjectDoodad Id="40" Variation="6" Position="32.5,35.5,8" Rotation="4.6318" Scale="1.1418,1.1418,1.1418" Type="AiurTree"/>
+    <ObjectDoodad Id="41" Variation="7" Position="30.5,34.5,8" Rotation="3.2233" Scale="1.1284,1.1284,1.1284" Type="AiurTree"/>
+    <ObjectDoodad Id="42" Variation="3" Position="42.5,27.5,8" Rotation="5.2573" Scale="0.9182,0.9182,0.9182" Type="AiurTree"/>
+    <ObjectDoodad Id="43" Variation="4" Position="42.5,20.5,8" Rotation="2.4445" Scale="0.8352,0.8352,0.8352" Type="AiurTree"/>
+    <ObjectDoodad Id="44" Variation="2" Position="35.5,25.5,8" Rotation="6.2778" Scale="1.0126,1.0126,1.0126" Type="AiurTree"/>
+    <ObjectDoodad Id="45" Variation="1" Position="18.5,25.5,8" Rotation="3.9277" Scale="0.8952,0.8952,0.8952" Type="AiurTree"/>
+    <ObjectDoodad Id="46" Variation="2" Position="18.5,34.5,8" Rotation="0.0776" Scale="1.187,1.187,1.187" Type="AiurTree"/>
+    <ObjectDoodad Id="47" Variation="7" Position="19.5,30.5,8" Rotation="6.273" Scale="0.8977,0.8977,0.8977" Type="AiurTree"/>
+    <ObjectDoodad Id="48" Variation="7" Position="22.5,37.5,8" Rotation="2.0454" Scale="1.0063,1.0063,1.0063" Type="AiurTree"/>
+    <ObjectDoodad Id="49" Variation="3" Position="21.5,29.5,8" Rotation="3.5734" Scale="1.0656,1.0656,1.0656" Type="AiurTree"/>
+    <ObjectDoodad Id="50" Variation="5" Position="21.5,34.5,8" Rotation="5.506" Scale="0.9887,0.9887,0.9887" Type="AiurTree"/>
+    <ObjectDoodad Id="51" Position="19.5,14.5,8" Rotation="2.1772" Scale="0.927,0.927,0.927" Type="AiurTree"/>
+    <ObjectDoodad Id="52" Variation="1" Position="25.5,14.5,8" Rotation="2.5578" Scale="1.1091,1.1091,1.1091" Type="AiurTree"/>
+    <ObjectDoodad Id="53" Variation="2" Position="31.5,14.5,8" Rotation="2.813" Scale="1.072,1.072,1.072" Type="AiurTree"/>
+    <ObjectDoodad Id="54" Variation="1" Position="36.5,14.5,8" Rotation="6.104" Scale="0.8327,0.8327,0.8327" Type="AiurTree"/>
+    <ObjectDoodad Id="55" Position="39.5,14.5,8" Rotation="1.1958" Scale="1.1062,1.1062,1.1062" Type="AiurTree"/>
+    <ObjectDoodad Id="56" Variation="4" Position="43.5,16.5,8" Rotation="4.8142" Scale="1.0593,1.0593,1.0593" Type="AiurTree"/>
+    <ObjectDoodad Id="57" Variation="5" Position="44.5,20.5,8" Rotation="4.3295" Scale="0.8457,0.8457,0.8457" Type="AiurTree"/>
+    <ObjectDoodad Id="58" Variation="2" Position="44.5,25.5,8" Rotation="5.1777" Scale="0.8872,0.8872,0.8872" Type="AiurTree"/>
+    <ObjectDoodad Id="59" Variation="2" Position="43.5,34.5,8" Rotation="0.4724" Scale="0.8771,0.8771,0.8771" Type="AiurTree"/>
+    <ObjectDoodad Id="60" Variation="7" Position="38.5,37.5,8" Rotation="1.1835" Scale="1.1977,1.1977,1.1977" Type="AiurTree"/>
+</PlacedObjects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CActorList id="PinkList">
+        <EditorCategories value=""/>
+        <On Terms="UnitBirth.Marine" Send="Create"/>
+        <On Terms="Abil.Stimpack.SourceFinishStart" Target="::Contents" Send="SetTintColor 237,15,255 3.000000"/>
+    </CActorList>
+    <CActorRegionCircle id="PinkQuery">
+        <EditorCategories value=""/>
+        <On Terms="UnitBirth.Marine" Send="Create"/>
+        <On Terms="ActorCreation" Send="QueryPersistent PinkResponse {} AgainstCenter"/>
+        <Radius value="5.000000"/>
+    </CActorRegionCircle>
+    <CActorQueryResponse id="PinkResponse">
+        <EditorCategories value=""/>
+        <Subject Filters="Doodad"/>
+        <OnResponse Target="PinkList" Send="ListAdd ::QuerySubject" Scope="QueryDirector"/>
+    </CActorQueryResponse>
+</Catalog>

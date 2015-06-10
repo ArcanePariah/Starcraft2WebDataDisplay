@@ -21,12 +21,30 @@
     <ClCompile Include="MySAX2Handler.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CAbilCatalog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CAbilHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CAbil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MySAX2Handler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="AbilDataParserHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilCatalog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilHandler.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

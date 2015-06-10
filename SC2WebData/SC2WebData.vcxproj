@@ -68,11 +68,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CAbil.cpp" />
+    <ClCompile Include="CAbilCatalog.cpp" />
+    <ClCompile Include="CAbilHandler.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="MySAX2Handler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AbilDataParserHandler.h" />
+    <ClInclude Include="CAbil.h" />
+    <ClInclude Include="CAbilCatalog.h" />
+    <ClInclude Include="CAbilHandler.h" />
     <ClInclude Include="MySAX2Handler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

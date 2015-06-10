@@ -1,0 +1,8 @@
+[Actor]
+id=PinkList
+Actor=TerrainMgr
+id=PinkQuery
+Actor=PinkResponse,TerrainMgr
+id=PinkResponse
+Actor=TerrainMgr
+

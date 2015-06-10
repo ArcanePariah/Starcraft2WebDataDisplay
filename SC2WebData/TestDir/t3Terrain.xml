@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<terrain version="113">
+    <heightMap tileSet="BelShir" uvtiling="6.000000 6.000000 0.000000 0.000000 " dim="65 65 " offset="0.000000 0.000000 0.000000 " scale="1.000000e+000 1.000000e+000 1.000000e+000 ">
+        <vertData quantizeBias="1.000000e+000" quantizeScale="1.525902e-004" standardHeight="8.000000e+000" name="t3HeightMap"/>
+        <masks name="t3TextureMasks"/>
+        <textureList num="8">
+            <texture i="0" name=""/>
+            <texture i="1" name="BelShirDirtDark"/>
+            <texture i="2" name=""/>
+            <texture i="3" name=""/>
+            <texture i="4" name=""/>
+            <texture i="5" name=""/>
+            <texture i="6" name=""/>
+            <texture i="7" name=""/>
+        </textureList>
+        <cliffCellList num="1024" numOccupied="0"/>
+    </heightMap>
+</terrain>

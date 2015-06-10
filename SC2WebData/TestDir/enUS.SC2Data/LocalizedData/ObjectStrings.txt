@@ -1,0 +1,3 @@
+Actor/Name/PinkList=PinkList
+Actor/Name/PinkQuery=PinkQuery
+Actor/Name/PinkResponse=PinkResponse

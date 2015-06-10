@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TriggerData>
+    <Root>
+        <Item Type="Trigger" Id="EEA7CC05"/>
+    </Root>
+    <Element Type="Trigger" Id="EEA7CC05">
+        <Event Type="FunctionCall" Id="4321C7DF"/>
+        <Action Type="FunctionCall" Id="C49F82A9"/>
+        <Action Type="FunctionCall" Id="DC7341E8"/>
+    </Element>
+    <Element Type="FunctionCall" Id="4321C7DF">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000120"/>
+    </Element>
+    <Element Type="FunctionCall" Id="5F0A7766">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000356"/>
+    </Element>
+    <Element Type="FunctionCall" Id="C49F82A9">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="00000227"/>
+        <Parameter Type="Param" Id="6E13789B"/>
+        <Parameter Type="Param" Id="75DC8084"/>
+    </Element>
+    <Element Type="FunctionCall" Id="DC7341E8">
+        <FunctionDef Type="FunctionDef" Library="Ntve" Id="685AF92D"/>
+        <Parameter Type="Param" Id="EBC5776A"/>
+        <Parameter Type="Param" Id="B4CCC4AC"/>
+        <Parameter Type="Param" Id="7CFBA74F"/>
+        <Parameter Type="Param" Id="A5802369"/>
+    </Element>
+    <Element Type="Param" Id="6E13789B">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000389"/>
+        <Value>1</Value>
+        <ValueType Type="int"/>
+    </Element>
+    <Element Type="Param" Id="75DC8084">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="00000390"/>
+        <Preset Type="PresetValue" Library="Ntve" Id="00000064"/>
+    </Element>
+    <Element Type="Param" Id="7CFBA74F">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="415394EA"/>
+        <Preset Type="PresetValue" Library="Ntve" Id="00000072"/>
+    </Element>
+    <Element Type="Param" Id="A5802369">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="A8FE7C12"/>
+        <FunctionCall Type="FunctionCall" Id="5F0A7766"/>
+    </Element>
+    <Element Type="Param" Id="B4CCC4AC">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="9EE40FDE"/>
+        <Value>0.0</Value>
+        <ValueType Type="fixed"/>
+    </Element>
+    <Element Type="Param" Id="EBC5776A">
+        <ParameterDef Type="ParamDef" Library="Ntve" Id="654EA30A"/>
+        <Value>1</Value>
+        <ValueType Type="int"/>
+    </Element>
+</TriggerData>
